@@ -1,11 +1,11 @@
 // import logo from './logo.svg';
 // import './App.css';
-import RegionViewApi from './RegionView/RegionViewApi';
+import Route from './Route';
 
 function App() {
   return (
     <div className="App">
-      <RegionViewApi />
+      <Route />
     </div>
   );
 }
